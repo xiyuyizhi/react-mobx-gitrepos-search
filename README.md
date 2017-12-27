@@ -1,4 +1,4 @@
-[演示地址](https://xiyuyizhi.github.io/react-mobx-gitrepos-search/)
+[address](https://xiyuyizhi.github.io/react-mobx-gitrepos-search/)
 
 ## 响应式编程介绍
 
